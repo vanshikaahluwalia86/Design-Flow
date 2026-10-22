@@ -1,0 +1,222 @@
+[
+  {
+    "id": "friction-1",
+    "team": "Industrial",
+    "task": "Aero-surfacing iteration handoffs to CFD simulation",
+    "description": "Translating rough clay and Alias NURBS concept files into watertight meshes for aerodynamic computational fluid dynamics (CFD) drag testing.",
+    "hoursLostPerWeek": 8,
+    "frequencyPerWeek": 3,
+    "workaround": "Manual mesh stitching in Blender and Rhino overnight, often missing drag target feedback loops by 48 hours.",
+    "impactScore": 24,
+    "isSample": true
+  },
+  {
+    "id": "friction-2",
+    "team": "CMF",
+    "task": "Physical vegan leather & bio-composite swatch digitization",
+    "description": "Scanning sustainable fiber textures and calculating PBR shader reflectance values (albedo, normal, roughness, metallic) for real-time rendering in V-Ray and Unreal.",
+    "hoursLostPerWeek": 6,
+    "frequencyPerWeek": 4,
+    "workaround": "Taking DSLR photos under lightbox and manually hand-tweaking roughness maps in Photoshop until visual match is approved.",
+    "impactScore": 24,
+    "isSample": true
+  },
+  {
+    "id": "friction-3",
+    "team": "Vehicle",
+    "task": "Clay model 3D optical scan alignment & gap reconciliation",
+    "description": "Aligning 1:1 scale physical clay milled scan data back to digital CAD surface models when sculptors make tactile styling tweaks by hand.",
+    "hoursLostPerWeek": 7,
+    "frequencyPerWeek": 3,
+    "workaround": "Point cloud slicing and manual point-to-point snapping in GOM Inspect / Alias, which delays executive design freezes.",
+    "impactScore": 21,
+    "isSample": true
+  },
+  {
+    "id": "friction-4",
+    "team": "UI-UX",
+    "task": "In-cabin pillar-to-pillar display layout adaptation across variants",
+    "description": "Resizing and re-skinning digital cluster, center stack, and passenger HUD screens across 3 distinct vehicle wheelbases and trim packages.",
+    "hoursLostPerWeek": 5,
+    "frequencyPerWeek": 4,
+    "workaround": "Manually duplicating Figma frames and updating auto-layout padding across 120+ variant screens per sprint.",
+    "impactScore": 20,
+    "isSample": true
+  },
+  {
+    "id": "friction-5",
+    "team": "Vehicle",
+    "task": "Frunk packaging and packaging clearance checks against crash structures",
+    "description": "Validating aerodynamic hood rake angles against hard point front-motor inverter packaging and pedestrian head-impact clearance envelopes.",
+    "hoursLostPerWeek": 6,
+    "frequencyPerWeek": 3,
+    "workaround": "Manual 2D cross-section overlays in CATIA V6 and emailing back and forth with chassis engineering team.",
+    "impactScore": 18,
+    "isSample": true
+  },
+  {
+    "id": "friction-6",
+    "team": "CMF",
+    "task": "Exterior iridescent pearl coat color-shift under diverse solar spectrums",
+    "description": "Simulating how multilayer micro-flake EV exterior finishes appear at golden hour vs. overcast noon vs. artificial LED street lighting.",
+    "hoursLostPerWeek": 4,
+    "frequencyPerWeek": 4,
+    "workaround": "Generating 40+ static KeyShot renders per colorway and manually organizing them onto presentation Keynote decks.",
+    "impactScore": 16,
+    "isSample": true
+  },
+  {
+    "id": "friction-7",
+    "team": "UI-UX",
+    "task": "Night-mode ambient illumination & OLED glare reflection testing",
+    "description": "Verifying that night driving UI themes and ambient cabin light-pipe bounce do not cause windshield optical glare or pupil fatigue.",
+    "hoursLostPerWeek": 5,
+    "frequencyPerWeek": 3,
+    "workaround": "Testing mockups inside a darkened physical cabin buck with taped iPads and manual lux meter probes.",
+    "impactScore": 15,
+    "isSample": true
+  },
+  {
+    "id": "friction-8",
+    "team": "Industrial",
+    "task": "Steering yoke ergonomic clearance & reach zone validation",
+    "description": "Checking driver 5th percentile female to 95th percentile male fingertip reach zones for capacitive thumb controls on non-round steering yokes.",
+    "hoursLostPerWeek": 4,
+    "frequencyPerWeek": 3,
+    "workaround": "Exporting STL files for 3D printing overnight and manual tape measurements with ergonomic mannequins.",
+    "impactScore": 12,
+    "isSample": true
+  },
+  {
+    "id": "friction-9",
+    "team": "Vehicle",
+    "task": "Flush door handle aerodynamic thermal icing latch simulations",
+    "description": "Evaluating mechanical pop-out clearance of concealed aerodynamic door handles when encrusted in 10mm ice during arctic validation.",
+    "hoursLostPerWeek": 4,
+    "frequencyPerWeek": 3,
+    "workaround": "Reviewing static thermal FEA thermal cut-sheets and manually logging freeze-break torque estimates into Excel.",
+    "impactScore": 12,
+    "isSample": true
+  },
+  {
+    "id": "friction-10",
+    "team": "CMF",
+    "task": "Recycled ocean plastic interior trim grain & texture mapping",
+    "description": "Generating seamless 3D micro-grain bump displacement maps for injection molded door cards made of recycled marine polymers.",
+    "hoursLostPerWeek": 3,
+    "frequencyPerWeek": 4,
+    "workaround": "Photographing physical resin samples and manually removing seam artifacts with clone stamp tool in Photoshop.",
+    "impactScore": 12,
+    "isSample": true
+  },
+  {
+    "id": "friction-11",
+    "team": "UI-UX",
+    "task": "Drive mode transitions animation choreography (Chill to Ludicrous)",
+    "description": "Designing synchronous cluster shader transitions, sound design cues, and ambient RGB strip pulsation when switching performance drive modes.",
+    "hoursLostPerWeek": 3,
+    "frequencyPerWeek": 3,
+    "workaround": "Prototyping in After Effects and writing multi-page timing handover specifications for embedded Android Automotive engineers.",
+    "impactScore": 9,
+    "isSample": true
+  },
+  {
+    "id": "friction-12",
+    "team": "Industrial",
+    "task": "Acoustic aero-blade wheel rim turbulence vortex evaluations",
+    "description": "Iterating lightweight directional aero-blade wheel inserts to reduce wheel-well wind roar without compromising brake cooling air ducting.",
+    "hoursLostPerWeek": 3,
+    "frequencyPerWeek": 3,
+    "workaround": "Waiting on batch airflow simulations from aero engineering, running only twice a week due to cluster licensing.",
+    "impactScore": 9,
+    "isSample": true
+  },
+  {
+    "id": "friction-13",
+    "team": "Vehicle",
+    "task": "Panoramic glass roof solar heat gain & electrochromic tint curve review",
+    "description": "Benchmarking visual transparency percentages against solar infrared heat transmittance for expansive glass canopy roofs.",
+    "hoursLostPerWeek": 3,
+    "frequencyPerWeek": 2,
+    "workaround": "Cross-referencing glass supplier spectral PDF datasheets and manually calculating interior thermal soak estimates.",
+    "impactScore": 6,
+    "isSample": true
+  },
+  {
+    "id": "friction-14",
+    "team": "UI-UX",
+    "task": "EV charging station map UI cluster status synchronization",
+    "description": "Ensuring battery pre-conditioning countdowns, stall availability, and peak charging curve graphics match between HUD and mobile app.",
+    "hoursLostPerWeek": 3,
+    "frequencyPerWeek": 2,
+    "workaround": "Manually reviewing screens side-by-side in Miro and logging discrepancy tickets in Jira.",
+    "impactScore": 6,
+    "isSample": true
+  },
+  {
+    "id": "friction-15",
+    "team": "Industrial",
+    "task": "Fast-charging port door motorized kinematic envelope check",
+    "description": "Checking motorized charge port door pivot swing clearance against high-power CCS and NACS plug handles.",
+    "hoursLostPerWeek": 2,
+    "frequencyPerWeek": 3,
+    "workaround": "Visual 3D model rotation check in CAD without dynamic collision volume envelope automation.",
+    "impactScore": 6,
+    "isSample": true
+  },
+  {
+    "id": "friction-16",
+    "team": "CMF",
+    "task": "Vegan bio-suede abrasion & UV fading physical lab report tracking",
+    "description": "Tracking Taber abrasion test cycles and Florida accelerated solar weathering results from 4 international supplier labs.",
+    "hoursLostPerWeek": 2,
+    "frequencyPerWeek": 3,
+    "workaround": "Logging PDF certificates into shared Google Drive folders and compiling a weekly summary email manually.",
+    "impactScore": 6,
+    "isSample": true
+  },
+  {
+    "id": "friction-17",
+    "team": "Vehicle",
+    "task": "Camera mirror winglet field-of-view & blind spot angle regulatory checks",
+    "description": "Confirming digital e-mirror exterior camera pods meet UNECE R46 field-of-vision requirements across driver seat height adjustments.",
+    "hoursLostPerWeek": 2,
+    "frequencyPerWeek": 2,
+    "workaround": "Constructing manual vision cone projection solids in CAD geometry tree for each driver percentile.",
+    "impactScore": 4,
+    "isSample": true
+  },
+  {
+    "id": "friction-18",
+    "team": "Industrial",
+    "task": "Center console wireless inductive charging pad thermal dissipation",
+    "description": "Designing dual 50W phone charging pads with integrated hidden air-cooling ducts to prevent smartphone thermal throttling.",
+    "hoursLostPerWeek": 2,
+    "frequencyPerWeek": 2,
+    "workaround": "Running hand calculations for fan air velocity and discussing clearance with HVAC packaging leads in weekly syncs.",
+    "impactScore": 4,
+    "isSample": true
+  },
+  {
+    "id": "friction-19",
+    "team": "UI-UX",
+    "task": "ADAS autonomous lane-change confidence avatar visualization",
+    "description": "Designing visual confidence halos and trajectory pathing animations in the instrument cluster when Level 3 highway pilot initiates a lane change.",
+    "hoursLostPerWeek": 2,
+    "frequencyPerWeek": 2,
+    "workaround": "Exporting Lottie JSON files and manually QA testing frame rates on early development in-vehicle Linux hardware.",
+    "impactScore": 4,
+    "isSample": true
+  },
+  {
+    "id": "friction-20",
+    "team": "CMF",
+    "task": "Laser-etched backlit wood veneer ambient trim calibration",
+    "description": "Calibrating laser perforation diameter and pore depth on open-pore walnut veneer so ambient light shines through evenly without hot spots.",
+    "hoursLostPerWeek": 2,
+    "frequencyPerWeek": 2,
+    "workaround": "Evaluating physical wooden sample coupon plates shipped from supplier via FedEx under bench microscopes.",
+    "impactScore": 4,
+    "isSample": true
+  }
+]
