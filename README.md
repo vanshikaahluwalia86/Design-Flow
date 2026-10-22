@@ -201,8 +201,4 @@ Deploy DesignFlow to Vercel in under 3 minutes:
 
 ---
 
-## 7. Resume Summary (3-Bullet Highlight)
 
-- **Engineered & Deployed DesignFlow**: Architected a production-ready EV design acceleration toolkit using Next.js 14 App Router, TypeScript, and Tailwind CSS, deployed seamlessly to Vercel.
-- **Server-Isolated AI Orchestration**: Integrated Google Gemini Flash via secure server route handlers with JSON-schema prompting, generating structured automotive rendering prompts, senior critique questions, and batched friction solutions with sub-second latency.
-- **Quantitative Studio Optimization**: Implemented an automated friction matrix and Recharts analytics dashboard prioritizing EV workflow bottlenecks across Industrial, Vehicle, UI-UX, and CMF disciplines with instant CSV export and zero-database localStorage persistence.
